@@ -67,7 +67,7 @@ Settings → Secrets and variables → Actions → New repository secret
 
 ## 🌐 Webshare 代理配置（推荐）
 
-地址：https://www.webshare.io/?referral_code=sfojw2m7nss0
+地址：[注册 WebShare](https://www.webshare.io/?referral_code=xpvcvmps3z50)
 
 如果 GitHub Actions 的默认出口 IP 不稳定，或者访问 KataBump 时容易触发限制，推荐使用 Webshare 代理列表。
 
